@@ -27,7 +27,7 @@
     <!-- Color for the setting description text. -->
     <color name="setting_secondary_color">@color/dialtacts_secondary_text_color</color>
     <color name="setting_disabled_color">#aaaaaa</color>
-    <color name="setting_background_color">@*android:color/material_grey_850</color>
+    <color name="setting_background_color">@*android:color/material_grey_900</color>
     <color name="setting_button_color">#111</color>
 
     <!-- 70% black -->
@@ -43,7 +43,7 @@
     <color name="visual_voicemail_promo_card_divider">#7d57c1</color>
     <color name="promo_card_text">#ffffff</color>
 
-    <color name="voicemail_icon_tint">@*android:color/material_grey_850</color>
+    <color name="voicemail_icon_tint">@*android:color/material_grey_900</color>
     <color name="voicemail_icon_disabled_tint">#80000000</color>
     <color name="voicemail_playpause_icon_tint">@color/dialer_theme_color</color>
     <!-- Colour of voicemail progress bar to the right of position indicator. -->
@@ -55,11 +55,11 @@
     <color name="item_selected">#660099cc</color>
 
     <!-- White background for dialer -->
-    <color name="background_dialer_white">@*android:color/material_grey_850</color>
+    <color name="background_dialer_white">@*android:color/material_grey_900</color>
     <!-- Background color of new dialer activity -->
-    <color name="background_dialer_light">@*android:color/material_grey_850</color>
+    <color name="background_dialer_light">@*android:color/material_grey_900</color>
     <!-- Background color for search results and call details -->
-    <color name="background_dialer_results">@*android:color/material_grey_850</color>
+    <color name="background_dialer_results">@*android:color/material_grey_900</color>
     <color name="background_dialer_call_log">@color/background_dialer_light</color>
     <color name="background_dialer_call_log_list_item">@color/background_dialer_white</color>
 
@@ -108,13 +108,13 @@
     <color name="background_color_transparent">#00000000</color>
     <color name="call_log_primary_background_color">#000000</color>
     <color name="call_log_secondary_background_color">#333333</color>
-    <color name="call_log_header_color">#33b5e5</color>
-    <color name="call_log_voicemail_status_background_color">#262626</color>
+    <color name="call_log_header_color">#ff1976D2</color>
+    <color name="call_log_voicemail_status_background_color">#ff000000</color>
     <color name="call_log_voicemail_status_text_color">#888888</color>
-    <color name="call_log_voicemail_status_action_text_color">#33b5e5</color>
-    <color name="call_log_primary_bg_color">@*android:color/material_grey_850</color>
+    <color name="call_log_voicemail_status_action_text_color">#ff1976D2</color>
+    <color name="call_log_primary_bg_color">@*android:color/material_grey_900</color>
     <color name="call_log_secondary_bg_color">@*android:color/material_grey_800</color>
-    <color name="call_log_header_color_dark">@*android:color/material_grey_850</color>
+    <color name="call_log_header_color_dark">@*android:color/material_grey_900</color>
     <color name="dialpad_text_color">#FFFFFF</color>
     <color name="keyguard_preview_bg">@*android:color/material_grey_800</color>
 </resources>
